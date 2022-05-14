@@ -1,0 +1,20 @@
+half of 5 answer2.5
+half of 10 answer5
+half of 3 answer1.5
+half of 4 answer2
+half of 99 answer49.5
+half of 11 answer5.5
+half of 2 answer1
+double 3 answer6
+double 5 answer10
+double 6 answer12
+double 100 answer200
+double 0 answer0
+func that return length of list answerlen
+double 4 answer8
+double 5 answer10
+double 6 answer12
+double 54 answer108
+half of 3 answer1.5
+half of 2 answer1
+double 0 answer0
